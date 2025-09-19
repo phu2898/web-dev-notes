@@ -18,8 +18,8 @@ This repository is my personal collection of notes and practice code while learn
 
 ## 📜 License
 
-- **Notes** → [CC BY 4.0](./LICENSE-NOTES)
-- **Code** → [MIT](./LICENSE)
+- **Notes** → [CC BY 4.0](https://github.com/phu2898/web-dev-notes/blob/main/.LICENSE-NOTES)
+- **Code** → [MIT](https://github.com/phu2898/web-dev-notes/blob/main/.LICENSE)
 
 Please give proper credit if you use or share.
 
